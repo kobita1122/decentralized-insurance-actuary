@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "data_sources": ["Chainlink", "Pyth"],
+  "underwriting_models": ["Expected Loss", "Value at Risk (VaR)"],
+  "compliance": "Standard Parametric Framework v2"
+}
